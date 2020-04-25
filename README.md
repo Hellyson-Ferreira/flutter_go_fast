@@ -4,7 +4,7 @@
 ## - [Professor: Renato Mota](https://github.com/RenatoLucasMota)
 
 ### Aprendendo a utilizar principais recursos do Flutter 
-- [ ] Modular;
+- [x] Modular;
 - [ ] MobX;
 - [ ] Firebase;
 - [ ] Intercionalization;
