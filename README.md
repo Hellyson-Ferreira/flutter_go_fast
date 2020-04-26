@@ -5,9 +5,9 @@
 
 ### Aprendendo a utilizar principais recursos do Flutter 
 - [x] Modular;
+- [x] Intercionalization;
 - [ ] MobX;
 - [ ] Firebase;
-- [ ] Intercionalization;
 - [ ] Controle de temas;
 - [ ] PushNotifications;
 - [ ] Testes unitários.
