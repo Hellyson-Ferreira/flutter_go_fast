@@ -8,7 +8,7 @@
 - [x] Intercionalization;
 - [x] Controle de temas;
 - [x] MobX;
-- [ ] Firebase
+- [x] Firebase
 - [ ] PushNotifications;
 - [ ] Testes unitários.
 
