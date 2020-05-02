@@ -1,7 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_go_fast/app/app_controller.dart';
-import 'package:flutter_go_fast/app/core/intercionalizations/app_translate.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class SplashPage extends StatefulWidget {

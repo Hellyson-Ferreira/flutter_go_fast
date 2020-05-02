@@ -9,6 +9,7 @@
 - [x] Controle de temas;
 - [x] MobX;
 - [x] Firebase
+- [x] Princípio da Responsabilidade Única (SOLID)
 - [ ] PushNotifications;
 - [ ] Testes unitários.
 
